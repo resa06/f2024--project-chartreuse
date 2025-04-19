@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zUKWOP3z)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zUKWOP3z) <br>
 CMPUT404-project-socialdistribution
 ===================================
 
@@ -81,6 +81,8 @@ python3 manage.py test --pattern="test_comments.py" --verbosity=0
 To view the API documentation, go to the following link: https://f24-project-chartreuse-b4b2bcc83d87.herokuapp.com/chartreuse/schema/swagger-ui/
 
 ## Citations
+**NOTE: This section is unusable since the wiki has not been copied over to this repository.**
+
 We created a couple of pages on our wiki to hold all the resources we referred to while working on this project. To see our citations, [please click here](https://github.com/uofa-cmput404/f24-project-chartreuse/wiki/Citations-Main-Page) to visit our Citation Main Page on our Wiki. 
 
 <br>
