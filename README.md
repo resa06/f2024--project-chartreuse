@@ -51,8 +51,6 @@ https://www.youtube.com/watch?v=gfmW2677Xg0
 * Dashboard link: https://dashboard.heroku.com/apps/f24-project-chartreuse
 * Service address: https://f24-project-chartreuse-b4b2bcc83d87.herokuapp.com/
 * Hostname: f24-project-chartreuse-b4b2bcc83d87.herokuapp.com
-* Username for HTTP Basic Auth: chartreuse-admin
-* Password for HTTP Basic Auth: abc123
 * Addresses:  3.216.88.24, 3.219.96.23, 23.22.52.7, 23.22.144.165
 
 ## Tests
